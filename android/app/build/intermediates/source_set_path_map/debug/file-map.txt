@@ -1,0 +1,45 @@
+com.reduxupdated.app-jetified-play-services-maps-18.0.0-0 /Users/jugnu.pk/.gradle/caches/transforms-3/05ac349f566487412c127b5d3dc86d4e/transformed/jetified-play-services-maps-18.0.0/res
+com.reduxupdated.app-lifecycle-runtime-2.4.0-1 /Users/jugnu.pk/.gradle/caches/transforms-3/05b25df6b763d839debf5ea3817f4649/transformed/lifecycle-runtime-2.4.0/res
+com.reduxupdated.app-jetified-savedstate-1.1.0-2 /Users/jugnu.pk/.gradle/caches/transforms-3/05f076abf623b0587f8060e0a1d1b3b4/transformed/jetified-savedstate-1.1.0/res
+com.reduxupdated.app-work-runtime-2.7.1-3 /Users/jugnu.pk/.gradle/caches/transforms-3/0d2ce8bc996ff7f80cd0ceb9095bdefe/transformed/work-runtime-2.7.1/res
+com.reduxupdated.app-jetified-tracing-1.1.0-4 /Users/jugnu.pk/.gradle/caches/transforms-3/11e6f284e250a7dd5c060209c4620ac9/transformed/jetified-tracing-1.1.0/res
+com.reduxupdated.app-appcompat-1.4.1-5 /Users/jugnu.pk/.gradle/caches/transforms-3/17e780f3670701c53331e93501ff3e10/transformed/appcompat-1.4.1/res
+com.reduxupdated.app-jetified-play-services-base-18.0.1-6 /Users/jugnu.pk/.gradle/caches/transforms-3/1ee3540d0f773b45204664aee2f0e48b/transformed/jetified-play-services-base-18.0.1/res
+com.reduxupdated.app-jetified-viewpager2-1.0.0-7 /Users/jugnu.pk/.gradle/caches/transforms-3/1f02f2bc179843184ab0fe6e5e12f49d/transformed/jetified-viewpager2-1.0.0/res
+com.reduxupdated.app-jetified-glide-4.12.0-8 /Users/jugnu.pk/.gradle/caches/transforms-3/226841b1d26af0a290c2dc628151ede3/transformed/jetified-glide-4.12.0/res
+com.reduxupdated.app-coordinatorlayout-1.1.0-9 /Users/jugnu.pk/.gradle/caches/transforms-3/23ed6e5cb8cee78736593b590263f83c/transformed/coordinatorlayout-1.1.0/res
+com.reduxupdated.app-lifecycle-viewmodel-2.3.1-10 /Users/jugnu.pk/.gradle/caches/transforms-3/2aabe10e94589b859e7c2b15decd02eb/transformed/lifecycle-viewmodel-2.3.1/res
+com.reduxupdated.app-jetified-startup-runtime-1.0.0-11 /Users/jugnu.pk/.gradle/caches/transforms-3/38d71d64b1f039cb355b4026d75950bb/transformed/jetified-startup-runtime-1.0.0/res
+com.reduxupdated.app-recyclerview-1.1.0-12 /Users/jugnu.pk/.gradle/caches/transforms-3/4d9cd203be3c4c54d52b23c95bb301e0/transformed/recyclerview-1.1.0/res
+com.reduxupdated.app-jetified-play-services-basement-18.0.0-13 /Users/jugnu.pk/.gradle/caches/transforms-3/513f967f06995d1068bbcefc5cc9f08f/transformed/jetified-play-services-basement-18.0.0/res
+com.reduxupdated.app-jetified-emoji2-views-helper-1.0.0-14 /Users/jugnu.pk/.gradle/caches/transforms-3/52d7d921611642eb9dec7b82d18485c5/transformed/jetified-emoji2-views-helper-1.0.0/res
+com.reduxupdated.app-jetified-annotation-experimental-1.1.0-15 /Users/jugnu.pk/.gradle/caches/transforms-3/56ad4997987741b03060a934c29a65e0/transformed/jetified-annotation-experimental-1.1.0/res
+com.reduxupdated.app-transition-1.2.0-16 /Users/jugnu.pk/.gradle/caches/transforms-3/5a67131c717a6e744b236b2d053eec7f/transformed/transition-1.2.0/res
+com.reduxupdated.app-jetified-flipper-0.125.0-17 /Users/jugnu.pk/.gradle/caches/transforms-3/60ae283b98faa29a1403985771bf722d/transformed/jetified-flipper-0.125.0/res
+com.reduxupdated.app-jetified-autofill-1.1.0-18 /Users/jugnu.pk/.gradle/caches/transforms-3/6ae3f8c2b7068e9bb2723ff83d9c4da4/transformed/jetified-autofill-1.1.0/res
+com.reduxupdated.app-core-1.7.0-19 /Users/jugnu.pk/.gradle/caches/transforms-3/71a7efde797f7de8519f689d6e6d8ba6/transformed/core-1.7.0/res
+com.reduxupdated.app-jetified-react-android-0.71.8-debug-20 /Users/jugnu.pk/.gradle/caches/transforms-3/91cfb4faf580bb16921f1ee26ab86ccd/transformed/jetified-react-android-0.71.8-debug/res
+com.reduxupdated.app-cardview-1.0.0-21 /Users/jugnu.pk/.gradle/caches/transforms-3/a31325ab21393c47ed419d20dd1be73d/transformed/cardview-1.0.0/res
+com.reduxupdated.app-jetified-android-maps-utils-3.4.0-22 /Users/jugnu.pk/.gradle/caches/transforms-3/b31b2d08dd1be005a4aad37e0c8a40e9/transformed/jetified-android-maps-utils-3.4.0/res
+com.reduxupdated.app-material-1.1.0-23 /Users/jugnu.pk/.gradle/caches/transforms-3/b502275768ab514602ef3a58d61dfaef/transformed/material-1.1.0/res
+com.reduxupdated.app-jetified-appcompat-resources-1.4.1-24 /Users/jugnu.pk/.gradle/caches/transforms-3/cf235e1d2275c913abf6c74f2684897a/transformed/jetified-appcompat-resources-1.4.1/res
+com.reduxupdated.app-jetified-drawee-2.6.0-25 /Users/jugnu.pk/.gradle/caches/transforms-3/d2bbb624b751bc60f06ba2e4b0235646/transformed/jetified-drawee-2.6.0/res
+com.reduxupdated.app-jetified-emoji2-1.0.0-26 /Users/jugnu.pk/.gradle/caches/transforms-3/d8bf70c72630c32e71de0705db44cc5d/transformed/jetified-emoji2-1.0.0/res
+com.reduxupdated.app-jetified-core-ktx-1.6.0-27 /Users/jugnu.pk/.gradle/caches/transforms-3/d90c798e257fba8ca6597899e0e09a1c/transformed/jetified-core-ktx-1.6.0/res
+com.reduxupdated.app-fragment-1.3.6-28 /Users/jugnu.pk/.gradle/caches/transforms-3/e064b7405fcaa67055eaab1706398522/transformed/fragment-1.3.6/res
+com.reduxupdated.app-jetified-lifecycle-process-2.4.0-29 /Users/jugnu.pk/.gradle/caches/transforms-3/f668af8f87529ec370b7dd920d5ec40c/transformed/jetified-lifecycle-process-2.4.0/res
+com.reduxupdated.app-pngs-30 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/generated/res/pngs/debug
+com.reduxupdated.app-resValues-31 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/generated/res/resValues/debug
+com.reduxupdated.app-rs-32 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/generated/res/rs/debug
+com.reduxupdated.app-mergeDebugResources-33 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.reduxupdated.app-mergeDebugResources-34 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.reduxupdated.app-merged_res-35 /Volumes/Storage/React Native Projects/reduxupdated/android/app/build/intermediates/merged_res/debug
+com.reduxupdated.app-debug-36 /Volumes/Storage/React Native Projects/reduxupdated/android/app/src/debug/res
+com.reduxupdated.app-main-37 /Volumes/Storage/React Native Projects/reduxupdated/android/app/src/main/res
+com.reduxupdated.app-packaged_res-38 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-fast-image/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-39 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-gesture-handler/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-40 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-maps/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-41 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-safe-area-context/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-42 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-screens/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-43 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-svg/android/build/intermediates/packaged_res/debug
+com.reduxupdated.app-packaged_res-44 /Volumes/Storage/React Native Projects/reduxupdated/node_modules/react-native-vector-icons/android/build/intermediates/packaged_res/debug

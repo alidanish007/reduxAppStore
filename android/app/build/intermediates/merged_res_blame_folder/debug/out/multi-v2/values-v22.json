@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.reduxupdated.app-mergeDebugResources-33:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/jugnu.pk/.gradle/caches/transforms-3/17e780f3670701c53331e93501ff3e10/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}
